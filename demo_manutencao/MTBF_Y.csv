@@ -1,4 +1,4 @@
-timestamp_falha,tempo_desde_ultima_falha,MTTR_acumulado
+timestamp_falha,tempo_desde_ultima_falha,MTBF_acumulado
 2025-07-15 15:52:00,,
 2025-07-15 17:22:00,90.0,90.0
 2025-07-16 11:07:00,1065.0,577.5
